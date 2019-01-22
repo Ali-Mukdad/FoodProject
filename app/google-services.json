@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178930568017",
+    "firebase_url": "https://foodlogin-2f347.firebaseio.com",
+    "project_id": "foodlogin-2f347",
+    "storage_bucket": "foodlogin-2f347.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178930568017:android:00a37abe8f46d081",
+        "android_client_info": {
+          "package_name": "com.example.alialrida.foodproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178930568017-ok3fr9vbfoaf2qrmcdj8q0hgptsbat3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alialrida.foodproject",
+            "certificate_hash": "aa466db87a1025a1ba4c312b30ce2896ec6f54be"
+          }
+        },
+        {
+          "client_id": "178930568017-6nl7ki83b88ahc12eq2a42tnas8cr1hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl2bXMSqeBfStR3PyeirVBFaNmhEEjibs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178930568017-6nl7ki83b88ahc12eq2a42tnas8cr1hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
